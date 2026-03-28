@@ -1,3 +1,0 @@
-{{- if and .Site.Config.Services.GoogleAnalytics.ID (eq .Site.Params.env "production") }}
-  {{- template "_internal/google_analytics.html" . }}
-{{- end }}
