@@ -1,0 +1,5 @@
+theme = 'PaperMod'
+
+baseURL = 'https://noteseton.ccwu.cc/'
+locale = 'zh-cn'
+title = 'Notes Blog'
