@@ -1,7 +1,7 @@
 ---
 title: "cloudflare + github 博客尝新"
 date: 2026-03-28
-draft: true          # 改为 false 才能发布
+draft: false
 tags: ["Hugo", "博客", "github", "cloudflare"]
 ---
 
